@@ -3,6 +3,12 @@ layout: post
 title: Looking Beyond p < 0.05 in Orthodontics
 ---
 
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
 ## Looking Beyond p < 0.05 in Orthodontics (2026)
 
 One of the most meaningful lessons I learned from reading Statistical Inference in the 21st Century: A World Beyond p < 0.05 is the importance of interpreting research findings in a broader and more thoughtful way. This idea is especially relevant in dentistry and orthodontics, where clinical decisions directly affect patient outcomes, comfort, and long-term oral health. I realized that relying only on whether a study reports a p-value less than 0.05 can lead to incomplete or even misleading conclusions about treatment effectiveness.For example, in orthodontic research, studies often compare different appliances, treatment duration, or retention protocols. A statistically significant result may show that one technique reduces treatment time slightly, but that difference may not be clinically meaningful for patients. Through these readings, I learned to pay closer attention to effect sizes, confidence intervals, and the real clinical impact of findings rather than simply labeling results as “significant” or “not significant.” This approach supports more patient-centered and evidence-based treatment planning. 
